@@ -1,4 +1,4 @@
-# Used Car Price Prediction in Biskra Region 🚗💰
+# Used Car Price Prediction in Biskra Region 
 
 This project proposes a Deep Learning approach to predict the market value of used cars by analyzing video frames from local car markets in the Biskra region.
 
